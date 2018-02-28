@@ -48,3 +48,6 @@ tags
 .DS_Store
 .agignore
 **/*.tgz
+
+.god
+.rbenv-vars
